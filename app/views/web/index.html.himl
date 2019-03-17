@@ -1,0 +1,9 @@
+<h1>
+    Web#index
+
+<p>
+    <h2>
+        Hello!
+<p>    
+    Find me in app/views/web/index.html.erb
+
